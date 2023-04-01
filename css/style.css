@@ -839,6 +839,9 @@ button {
       -ms-flex-align: center;
           align-items: center;
 }
+.logo__img-block>*:not(:last-child) {
+	margin: 0px 14.31px 0px 0px;
+}
 /*______________MEDIA-BLOCK______________*/
 .media-block {
   -webkit-box-flex: 0;
